@@ -5,7 +5,7 @@ Includes sections like **Home, Menu, Gallery, Contact, and Admin Panel**.
 Designed for a smooth user experience and basic backend integration.
 
 ## 📸 Screenshot
-![Billing Cafe System](screenshot.png)
+![Billing Cafe System](Screenshot (125).png)
 
 ## ✨ Features
 - Responsive design for all devices

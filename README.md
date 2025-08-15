@@ -25,3 +25,6 @@ Designed for a smooth user experience and basic backend integration.
 ## 🚀 How to Run
 1. Clone this repository:
     git clone https://github.com/krushna006/Billing_Cafe_System.git
+2. Access the site in your browser via:
+   http://localhost/Billing_Cafe_System
+

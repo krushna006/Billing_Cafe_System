@@ -20,7 +20,10 @@ Designed for a smooth user experience and basic backend integration.
 - Bootstrap  
 - PHP  
 - MySQL
-
+## Login
+# admin login
+ username: admin
+ password:admin123
 ## How to Run
 1. Clone this repository:
     git clone https://github.com/krushna006/Billing_Cafe_System.git
